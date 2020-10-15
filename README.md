@@ -2,7 +2,7 @@
 
 Desenvolvedor Frontend e Backend
 
-<a href="english">English version on footer 👨‍🏫</a>
+###### English version on footer 👨‍🏫
 
 ![A Girl watering flowers](https://i.pinimg.com/originals/ae/99/59/ae9959dae8477e8c7eaef6b7d4201bf5.gif)
 ###### [Credits to Poutshi](https://www.pinterest.co.uk/poutshi/)
