@@ -10,7 +10,7 @@
 
 Desenvolvedor Frontend e Backend
 
-Prazer, meu nome você já viu aqui em cima, a profissão também ✌ Então me permita falar de mim como pessoa... João é um estudante de Ciências da Computação, em uma profunda relação de tapas e beijos com a matemática, nessa relação unida pelo código 😁 Minha meta é contribuir com a evolução das pessoas, ajudando-as a resolver problemas e sanar dúvidas.
+Me permita falar de mim como pessoa... João é um estudante de Ciências da Computação, em uma profunda relação de tapas e beijos com a matemática, nessa relação unida pelo código 😁 Minha meta é contribuir com a evolução das pessoas, ajudando-as a resolver problemas e sanar dúvidas.
 
 ---
 
