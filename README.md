@@ -4,7 +4,10 @@ Desenvolvedor Frontend e Backend
 
 ###### English version on footer 👨‍🏫
 
-![A Girl watering flowers](https://i.pinimg.com/originals/ae/99/59/ae9959dae8477e8c7eaef6b7d4201bf5.gif)
+<p align="center">
+<img src="https://i.pinimg.com/originals/ae/99/59/ae9959dae8477e8c7eaef6b7d4201bf5.gif" align="center"/>
+</p>
+
 ###### [Credits to Poutshi](https://www.pinterest.co.uk/poutshi/)
 
 Prazer, meu nome você já viu ali em cima, a profissão também ✌ Então me permita falar de mim como pessoa... João é um estudante de Ciências da Computação, em uma profunda relação de tapas e beijos com a matemática, nessa relação unida pelo código 😁 Minha meta é contribuir com a evolução das pessoas, ajudando-as a resolver problemas e sanar dúvidas.
