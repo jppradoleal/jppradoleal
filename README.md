@@ -27,8 +27,10 @@ Me permita falar de mim como pessoa... João é um estudante de Ciências da Com
 ### Bora fazer Networking? 🚀
 
 ![](https://img.shields.io/badge/Discord-ImMurderer%230582-ae00e8)
-![](https://img.shields.io/badge/Twitter-%2Fimmurdererr1-informational)
+[![](https://img.shields.io/badge/Twitter-%2Fimmurdererr1-informational)](https://twitter.com/immurdererr1)
+[![](https://img.shields.io/badge/DevTo-Leia%20meus%20Artigos-yellow)](https://dev.to/immurderer)
 ![](https://img.shields.io/badge/Telegram-JoaoPPrado-success)
+[![](https://img.shields.io/badge/Linkedin-Vamos%20nos%20conectar-add8e6)](https://www.linkedin.com/in/joao-pedro-prado-36532494/)
 
 ##### Quantas pessoas viram meu perfil? 👀
 [![HitCount](http://hits.dwyl.com/jppradoleal/jppradoleal.svg)](http://hits.dwyl.com/jppradoleal/jppradoleal)
@@ -57,8 +59,10 @@ Me permita falar de mim como pessoa... João é um estudante de Ciências da Com
   ### Lets do some Networking? 🚀
 
   ![](https://img.shields.io/badge/Discord-ImMurderer%230582-ae00e8)
-  ![](https://img.shields.io/badge/Twitter-%2Fimmurdererr1-informational)
+  [![](https://img.shields.io/badge/Twitter-%2Fimmurdererr1-informational)](https://twitter.com/immurdererr1)
+  [![](https://img.shields.io/badge/DevTo-Read%20my%20Posts-yellow)](https://dev.to/immurderer)
   ![](https://img.shields.io/badge/Telegram-JoaoPPrado-success)
+  [![](https://img.shields.io/badge/Linkedin-Lets%20be%20friends-add8e6)](https://www.linkedin.com/in/joao-pedro-prado-36532494/)
 
   ##### How many people have seen this profile? 👀
   [![HitCount](http://hits.dwyl.com/jppradoleal/jppradoleal.svg)](http://hits.dwyl.com/jppradoleal/jppradoleal)
